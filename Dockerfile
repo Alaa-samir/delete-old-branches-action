@@ -1,4 +1,4 @@
-FROM tajawalcom/alpine:v1
+FROM tajawalcom/image:alpine
 
 
 
